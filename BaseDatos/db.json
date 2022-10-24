@@ -11,6 +11,12 @@
       "Encargado": "Hector",
       "Funcionarios": "5",
       "id": 2
+    },
+    {
+      "Area": "Administracion",
+      "Encargado": "Johan Azero Soza",
+      "Funcionarios": "3",
+      "id": 3
     }
   ],
   "Activos": [
